@@ -112,3 +112,6 @@ https://www.youtube.com/watch?v=1tnj3UCkuxU (35 - 50 minutes)
 26
 27
 28
+
+Advanced (4kyu):
+1. https://www.codewars.com/kata/5324945e2ece5e1f32000370 MAX_SAFE_INTERGER  
