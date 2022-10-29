@@ -36,15 +36,17 @@ https://www.youtube.com/watch?v=1tnj3UCkuxU (35 - 50 minutes)
 
 
 ## Katas
-### Week 0:
-1
-2
-3
-4
-5
-6
-7
-### Week 1:
+### Week 0 (8kyu):
+1 https://www.codewars.com/kata/50654ddff44f800200000004/  
+2 https://www.codewars.com/kata/55685cd7ad70877c23000102  
+3 https://www.codewars.com/kata/53369039d7ab3ac506000467  
+3 https://www.codewars.com/kata/53da3dbb4a5168369a0000fe  
+4 https://www.codewars.com/kata/57a0e5c372292dd76d000d7e  
+5 https://www.codewars.com/kata/5715eaedb436cf5606000381  
+6 https://www.codewars.com/kata/5168bb5dfe9a00b126000018  
+7 https://www.codewars.com/kata/56dec885c54a926dcd001095  
+
+### Week 1 (8kyu):
 1
 2
 3
@@ -59,7 +61,7 @@ https://www.youtube.com/watch?v=1tnj3UCkuxU (35 - 50 minutes)
 12
 13
 14
-### Week 2:
+### Week 2 (8kyu):
 1
 2
 3
@@ -81,7 +83,7 @@ https://www.youtube.com/watch?v=1tnj3UCkuxU (35 - 50 minutes)
 19
 20
 21
-### Week 3:
+### Week 3 (7kyu):
 1
 2
 3
