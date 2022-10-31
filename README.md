@@ -18,14 +18,51 @@
 # day 2 
 
 1. Differences between declaring variables using var, let and const (Temporal Dead Zone?)
-2. Javascript strict-mode.
-3. What kind of functions we have in Javascript ?
+2. What kind of functions we have in Javascript ?
 
 # day 3 
-1. What is the rest parameter and spread operator?
-2. What is promise
+
+1) difference between arrow vs normal function 
+1) Explain Higher Order Functions in javascript.
 
 # day 4
+1) use strict
+1) undefined and null difference
+1) localstorage vs sessionstorage vs cookies
+
+# day 5
+how many way creating new object
+3) Explain “this” keyword.
+
+
+# day 6
+map vs set
+weakset weakmap
+
+# day 7
+rest vs spread
+closure
+
+# day 8
+1) setInterval vs setTimeout - give task on it
+ call apply bind
+
+
+# day 9 
+prototype vs proto
+
+# day 10
+callback
+
+# day 11 
+4) promise
+
+# day 12
+
+even loop
+
+
+
 1. DOM vs BOM difference 
 
 
