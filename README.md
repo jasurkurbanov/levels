@@ -84,9 +84,9 @@ https://www.youtube.com/watch?v=1tnj3UCkuxU (35 - 50 minutes)
 7 https://www.codewars.com/kata/56dec885c54a926dcd001095  
 
 ### Week 1 (8kyu):
-1
-2
-3
+1 https://www.codewars.com/kata/53ee5429ba190077850011d4 
+2 https://www.codewars.com/kata/5265326f5fda8eb1160004c8 
+3 https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0 
 4
 5
 6
