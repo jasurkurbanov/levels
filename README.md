@@ -34,7 +34,7 @@
 # day 5
 
 3) Explain “this” keyword.
-
+write function for checking object for empty
 
 # day 6
 map vs set
