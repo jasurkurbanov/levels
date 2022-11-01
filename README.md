@@ -29,9 +29,10 @@
 1) use strict
 1) undefined and null difference
 1) localstorage vs sessionstorage vs cookies
+1) how many ways of creating new object we have 
 
 # day 5
-how many way creating new object
+
 3) Explain “this” keyword.
 
 
@@ -152,3 +153,53 @@ https://www.youtube.com/watch?v=1tnj3UCkuxU (35 - 50 minutes)
 
 Advanced (4kyu):
 1. https://www.codewars.com/kata/5324945e2ece5e1f32000370 MAX_SAFE_INTERGER  
+
+
+
+Round 1
+
+1. Data Types in JS
+2. Symbol data type. When it's used
+3. const let var
+4. function declaration, hoisting.
+5. 
+
+const func = () => console.log(this)
+const obj = {a: 1}
+func()
+func.bind(obj)()
+
+6. accidental variable declaration
+7. use strict
+8. call apply bind
+9. promises example
+10. microtask queue, macro
+11. deep knowledge of event loops and deep knowledge of garbage collection. Study CS.
+12. implement your own .map function
+13. how to handle async code
+14. promise vs await async
+15. web workers. 
+16. can we use promises instead of web workers to not block the main thread?
+17. I was given two scripts that are linked to index.html
+declared a variable in the first script which we can access in the second script. 
+how can we make the first variable inaccessible to the second script?  (IIFE) 
+18. Session storage, local storage, cookies.
+19. Type coercion
+
+
+Round 2
+
+1. Tell me about yourself 
+2. Describe the time where you had to do complex project. What did you do.
+3. React vs Vue. When to choose which
+4. Application structure 
+5. Team management methodology.
+6. General knowledge of web.
+7. Tell me about http https, dns.
+8. How does browser render the website.
+9. Json vs XML
+10. Get put post patch delete.
+11. Request headers
+12. Implement inheritance without es6
+13. Implement polymorphism 
+14. Timer function.
